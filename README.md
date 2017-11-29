@@ -1,5 +1,6 @@
 # COMP9417
-2017 S1 COMP9417 Machine Learning and Data Mining DN <br>
+2017 S1 COMP9417 DN <br>
+Machine Learning and Data Mining <br>
 Assignment2 topic 9: Recommender system using collaborative filtering <br>
 
 Recommender system is widely used in E-commerce websites that predicts appropriate books, movies, music, website and news for users. Collaborative Filtering (CF) is one of the leading recommending approaches, which analyses existing rating data to compute the similarity between users or items and generates the recommendation list. In our assignment, we focus on user-based collaborative filtering method to predict on users’ movie ratings. <br>
