@@ -10,3 +10,5 @@ The goals of this assignment are: <br>
 (3) Prove that top-K user-based CF performs better than basic CF in terms of accuracy (using mean squared error). <br>
 
 In this assignment, we use ‘u.data’ which in the compress folder ‘ml-100k’ downloaded from ‘older datasets: MoiveLens 100K Dataset’. Download link is http://files.grouplens.org/datasets/movielens/ml-100k/u.data <br>
+
+![](https://github.com/BriseKael/COMP9417/blob/master/MSEs%20based%20on%20different%20K%20values.jpeg)
