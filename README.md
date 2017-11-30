@@ -18,7 +18,7 @@ In this assignment, we use ‘u.data’ which in the compress folder ‘ml-100k�
 
 Result
 -----
-![](https://github.com/BriseKael/COMP9417/blob/master/MSEs%20based%20on%20different%20K%20values.jpeg)    
+![](https://github.com/BriseKael/COMP9417/blob/master/img/MSEs%20based%20on%20different%20K%20values.jpeg)  
 
 Authors
 -----
