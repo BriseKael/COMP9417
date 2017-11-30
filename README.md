@@ -1,5 +1,6 @@
-# COMP9417
-Topic 9: Recommender system using collaborative filtering 
+# COMP9417 Machine Learning and Data Mining
+
+Assignment2: Topic 9: Recommender system using collaborative filtering 
 =====
 Introduction
 -----
